@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Yashwanth Madipeddi
 
-<!--
-**Yashjassy/Yashjassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at Sriyas Institute of Engineering and Technology  
+💻 Full Stack Developer (Angular & Node.js)  
+🚀 Currently building real-world web applications  
+🤖 Interested in AI-powered product development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Frontend: HTML, CSS, JavaScript, Angular  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Tools: Git, GitHub  
+
+---
+
+## 📌 Current Focus
+- Building full-stack projects  
+- Learning system design basics  
+- Exploring AI integrations in web apps  
+
+---
+
+## 📫 Contact
+- Email: yashwanthmadipeddi25@gmail.com  
