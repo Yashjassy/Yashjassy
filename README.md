@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yashwanth Madipeddi
 
-🎓 B.Tech Student at Sriyas Institute of Engineering and Technology  
+🎓 B.Tech Student at Sreyas Institute of Engineering and Technology  
 💻 Full Stack Developer (Angular & Node.js)  
 🚀 Currently building real-world web applications  
 🤖 Interested in AI-powered product development  
